@@ -1,0 +1,21 @@
+[{
+    question: "Who invented C Language.?",
+    choices: ["Charles Babbage", "Grahambel", " Dennis Ritchie", "Steve Jobs", "No One"],
+    correctAnswer: 2
+  }, {
+    question: " C Language is a successor to which language.?",
+    choices: ["FORTRAN", "D Language", "BASIC", "B Language", "PHP"],
+    correctAnswer: 3
+  }, {
+    question: "C is a which level language.?",
+    choices: ["Low Level", "High Level", "Low + High", "None"],
+    correctAnswer: 0
+  }, {
+    question: "C is _______ type of programming language.?",
+    choices: ["Object Oriented", "Procedural", "Bit level language", "Functional", "Non Procedural"],
+    correctAnswer: 1
+  }, {
+    question: "C language was invented to develop which Operating System.?",
+    choices: ["Android", "Linux", "Ubuntu", "Unix", "Windows"],
+    correctAnswer: 3
+  }]

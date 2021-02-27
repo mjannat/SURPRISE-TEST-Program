@@ -1,0 +1,75 @@
+body {
+    font-family: Open Sans;
+}
+
+h1 { 
+    text-align: center;
+}
+
+#title {
+    text-decoration: none;
+    color: maroon
+}
+
+#quiz {
+    text-indent: 10px;
+    display:none;
+}
+
+.button {
+    border:4px solid rgb(230, 224, 224);
+    border-radius:5px;
+    width: 50px;
+    padding-left:5px;
+    padding-right: 5px;
+    position: relative;
+    text-align: center;
+    float:right;
+    background-color:black;
+    color: wheat;
+    margin: 0 2px 0 2px;
+    box-shadow: maroon;
+}
+body {
+    background-image: url('theme.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+  }
+button {
+    position: relative;
+    float:right;
+}
+
+.button a {
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+#container {
+    width:70%;
+    margin:auto;
+    padding: 0 60px 60px 60px;
+    background-color: whitesmoke;
+    border:4px solid burlywood;
+    border-radius:px;
+    color: black;
+    font-weight: bold;
+    box-shadow: 5px 5px 5px rgb(221, 200, 80);
+    align-self: center;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+#prev {
+    display:none;
+}
+
+#start {
+    display:none;
+    width: 90px;
+}
